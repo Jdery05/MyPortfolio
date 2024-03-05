@@ -1,0 +1,75 @@
+/* https://www.color-hex.com/color-palette/1041681 color-palette link */
+#personal-logo {
+    height: 125px;
+}
+
+header * {
+    display: inline;
+}
+
+
+body {
+    margin: 0px;
+    background-color: #e0f8d0;
+}
+
+header a {
+    text-align: center;
+    padding: 10px;
+    line-height: 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ddd;
+}
+
+header a:hover {
+    background-color: #081820;
+    color:white;
+}
+
+header {
+    overflow: hidden;
+    background: #346856;
+    padding: 20px 10px;
+}
+
+#bottom-footer {
+    background-color: #88c070;
+}
+
+
+/*
+Blockquote CSS is pulled from documentation
+with minor changes to the color.
+*/
+blockquote {
+    width: 500px;
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #ddd;
+    border-radius: 5px;
+}
+  
+blockquote p::before {
+    content: '\201C';
+}
+  
+blockquote p::after {
+    content: '\201D';
+}
+
+#carousel-image {
+    width: 525px;
+}
+
+.images {
+    width: 75px;
+}
+
+.skill-list {
+    display: inline;
+}

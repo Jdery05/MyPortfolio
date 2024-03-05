@@ -1,0 +1,52 @@
+/* https://www.color-hex.com/color-palette/1041681 color-palette link */
+#personal-logo {
+    height: 125px;
+}
+
+header * {
+    display: inline;
+}
+
+section * {
+    display: inline;
+}
+
+
+
+body {
+    margin: 0px;
+    background-color: #e0f8d0;
+}
+
+header a {
+    text-align: center;
+    padding: 10px;
+    line-height: 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ddd;
+}
+
+header a:hover {
+    background-color: #081820;
+    color:white;
+}
+
+header {
+    overflow: hidden;
+    background: #346856;
+    padding: 20px 10px;
+}
+
+footer {
+    background-color: #88c070;
+}
+
+.images {
+    width: 75px;
+}
+
+.skill-list {
+    display: inline;
+}
