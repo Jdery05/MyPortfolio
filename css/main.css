@@ -23,6 +23,10 @@ header a {
     color: #ddd;
 }
 
+#my-photo {
+    height: 300px;
+}
+
 header a:hover {
     background-color: #081820;
     color:white;
